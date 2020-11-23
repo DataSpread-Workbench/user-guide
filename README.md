@@ -31,7 +31,7 @@ second tab
 {% endtab %}
 {% endtabs %}
 
-![Image](.gitbook/assets/image.png)
+![Image Caption](.gitbook/assets/image.png)
 
 | column 1 | column 2 | column 3 |
 | :--- | :--- | :--- |
@@ -39,4 +39,6 @@ second tab
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
 | 10 | 11 | 12 |
+
+
 
