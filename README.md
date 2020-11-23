@@ -31,5 +31,7 @@ second tab
 {% endtab %}
 {% endtabs %}
 
+![Image](.gitbook/assets/image.png)
+
 
 
