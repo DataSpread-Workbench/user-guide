@@ -21,5 +21,15 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+first tab
+{% endtab %}
+
+{% tab title="Second Tab" %}
+second tab
+{% endtab %}
+{% endtabs %}
+
 
 
