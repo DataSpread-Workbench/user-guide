@@ -4,7 +4,7 @@ description: 'http://dataspread.io'
 
 # Getting Started
 
-## Getting Super Powers
+## Login/Sign Up
 
 Becoming a super hero is a fairly straight forward process:
 
