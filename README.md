@@ -1,4 +1,4 @@
-# Initial page
+# Initial page 2
 
 ## Getting Super Powers
 
@@ -48,3 +48,4 @@ $$
 
 * list item 1
 * list item 2
+
