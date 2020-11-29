@@ -1,8 +1,8 @@
-# Getting Started
+---
+description: 'http://dataspread.io'
+---
 
-{% hint style="info" %}
-[http://dataspread.io](http://dataspread.io)
-{% endhint %}
+# Getting Started
 
 ## Login/Sign Up
 
