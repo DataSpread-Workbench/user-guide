@@ -18,4 +18,13 @@ Here's a breakdown of each option in the style bar in order \(the first four are
 | Italics | _Italicizes_ the text |
 | Strikethrough | Adds a ~~line through~~ the text |
 | Underline | U͟n͟d͟e͟r͟l͟i͟n͟e͟s͟ text |
+| Color | Change the text color |
+| Cell Color | Change the background color of the cell |
+| Center Align | Aligns text to the center of the cell |
+| Justify | Adds whitespace to the text to ensure it takes up the full width of the cell |
+| Left Align | Aligns text to the left of the cell |
+| Right Align | Aligns text to the right of the cell |
+| Vertical Align | Can select from `top`, `middle`, `bottom` |
+| Hyperlink | Link a cell to an [external website](https://example.com) |
+| Wrap | For string data, wraps text such that it goes to the next line instead of overflowing |
 
