@@ -1,0 +1,21 @@
+# Formatting
+
+Most of the formatting can be modified using the options in the style bar:
+
+![](.gitbook/assets/image%20%2810%29.png)
+
+First, select the cell you want to style \(or select a range of cells by clicking and dragging\). Then click on which style you want to apply.
+
+Here's a breakdown of each option in the style bar in order \(the first four are not related to formatting cells, but are still useful nonetheless\):
+
+|  |  |
+| :--- | :--- |
+| Print | Creates a PDF from the current view of the DataSpread and opens it in new tab |
+| Zoom | Controls the zoom level of the entire DataSpread \(not just the selected cell\) |
+| Font Family | Select which font to use \(i.e. `Arial`, `Roboto`, `Times New Roman`, etc.\) |
+| Font Size | Select text size |
+| Bold | **Bolds** the text |
+| Italics | _Italicizes_ the text |
+| Strikethrough | Adds a ~~line through~~ the text |
+| Underline | U͟n͟d͟e͟r͟l͟i͟n͟e͟s͟ text |
+
