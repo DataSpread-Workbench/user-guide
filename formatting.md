@@ -8,7 +8,7 @@ First, select the cell you want to style \(or select a range of cells by clickin
 
 Here's a breakdown of each option in the style bar in order \(the first four are not related to formatting cells, but are still useful nonetheless\):
 
-|  |  |
+| Name | Description |
 | :--- | :--- |
 | Print | Creates a PDF from the current view of the DataSpread and opens it in new tab |
 | Zoom | Controls the zoom level of the entire DataSpread \(not just the selected cell\) |

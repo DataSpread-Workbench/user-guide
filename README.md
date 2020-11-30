@@ -41,5 +41,3 @@ And that's all! You should see something similar to this:
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
-Continue to learn more about the many formatting options DataSpread offers
-
