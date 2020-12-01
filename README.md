@@ -1,5 +1,5 @@
 ---
-description: 'http://dataspread.io'
+description: 'http://www.dataspread.io'
 ---
 
 # Getting Started
@@ -15,7 +15,7 @@ DataSpread Workbench is a new application that combines a fully featured spreads
 
 ## Login/Sign Up
 
-When you first visit [dataspread.io](http://dataspread.io), you'll be greeted with the following screen. Pick a username and password and sign up to create an account.
+When you first visit [dataspread.io](http://www.dataspread.io), you'll be greeted with the following screen. Pick a username and password and sign up to create an account.
 
 ![](.gitbook/assets/image%20%2810%29.png)
 
