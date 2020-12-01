@@ -11,7 +11,7 @@ DataSpread Workbench is a new application that combines a fully featured spreads
 #### Key terminology:
 
 * A **DataSpread** is the equivalent of an Excel workbook. It's associated with a SQL database that you provide. It can contain multiple sheets.
-* A **Sheet**, ****as the name implies, ****is similar to a sheet in Excel. It can be used like a normal spreadsheet, except it can also be optionally backed by an SQL table, in which case the data for the top left area will come from the SQL table.
+* A **Sheet**, as the name implies, is similar to a sheet in Excel. It can be used like a normal spreadsheet, except it can also be optionally backed by an SQL table, in which case the data for the top left area will come from the SQL table.
 
 ## Login/Sign Up
 
