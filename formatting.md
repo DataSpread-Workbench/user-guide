@@ -2,7 +2,7 @@
 
 Most of the formatting can be modified using the options in the style bar:
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 First, select the cell you want to style \(or select a range of cells by clicking and dragging\). Then click on which style you want to apply.
 
@@ -27,4 +27,6 @@ Here's a breakdown of each option in the style bar in order \(the first four are
 | Vertical Align | Can select from `top`, `middle`, `bottom` |
 | Hyperlink | Link a cell to an [external website](https://example.com) |
 | Wrap | For string data, wraps text such that it goes to the next line instead of overflowing |
+
+Many of these options can also be found under the `Format` dropdown in the top toolbar.
 
