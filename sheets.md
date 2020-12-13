@@ -23,7 +23,7 @@ The remaining cells in the sheet are all free-form, meaning that you can enter w
 
 When right clicking on any cell in the free-form area, you'll see the option to add a free-form row and/or column:
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 ## 3 - Labels
 
@@ -37,7 +37,7 @@ In formulas, cells can be referenced by column label followed by the row number,
 
 Finally, you can add switch between sheets in the DataSpread by selecting the sheet name or add another sheet by clicking the plus icon. Adding a sheet is exactly the same process as the initial setup \(note that you can create multiple sheets using the same SQL table\):
 
-![](.gitbook/assets/image-3-.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 
 
