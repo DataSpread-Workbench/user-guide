@@ -17,27 +17,27 @@ DataSpread Workbench is a new application that combines a fully featured spreads
 
 When you first visit [dataspread.io](http://www.dataspread.io), you'll be greeted with the following screen. Pick a username and password and sign up to create an account.
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/login.png)
 
 ## Create a DataSpread
 
 After signing up, click on the green plus icon in the bottom right corner to create a DataSpread:
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/add_dataspread_button.png)
 
 First, you'll need to add a set of credentials to connect to your database.
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/add_credentials.png)
 
 Then select that set of credentials and click on `Next`. You should see a list of databases that can be accessed using those credentials. Select the one you want to use, and also specify a name for your [DataSpread](./#key-terminology).
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/select_database.png)
 
 Click on the DataSpread you just created and then add your first sheet by selecting the table you want to associate it with as well as a column from that table that you want to use as the ID. The ID is used to maintain a consistent ordering for the rows \(since SQL tables don't guarantee order by default\).
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/add_table.png)
 
 And that's all! You should see something similar to this:
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/dataspread.png)
 

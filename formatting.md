@@ -2,7 +2,7 @@
 
 Most of the formatting can be modified using the options in the style bar:
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/stylebar.png)
 
 First, select the cell you want to style \(or select a range of cells by clicking and dragging\). Then click on which style you want to apply.
 

@@ -2,7 +2,7 @@
 
 A standard Sheet contains row and column labels on the side and the content area, which is divided into two main sections: `Data` and `Free-Form`. There are also tabs at the bottom to switch between sheets in the DataSpread.
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/dataspread_labeled.png)
 
 ## 1 - Data Area
 
@@ -13,7 +13,7 @@ The top left area in the sheet is where data from the associated SQL table will 
 
 You can right click on any cell in the Data Area or go to the `Insert` dropdown to add a column. You can also add a `Data Row` which will add a row to the SQL table and reflect it on the sheet.
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/context_menu_insert_data.png)
 
 Note: It's also possible to create a sheet without linking an SQL table, in which case there will be no Data Area. Instead the entire sheet will consist of the Free-Form Area.
 
@@ -23,7 +23,7 @@ The remaining cells in the sheet are all free-form, meaning that you can enter w
 
 When right clicking on any cell in the free-form area, you'll see the option to add a free-form row and/or column:
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/context_menu_insert_free.png)
 
 ## 3 - Labels
 
@@ -37,7 +37,7 @@ In formulas, cells can be referenced by column label followed by the row number,
 
 Finally, you can add switch between sheets in the DataSpread by selecting the sheet name or add another sheet by clicking the plus icon. Adding a sheet is exactly the same process as the initial setup \(note that you can create multiple sheets using the same SQL table\):
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/add_table.png)
 
 
 
