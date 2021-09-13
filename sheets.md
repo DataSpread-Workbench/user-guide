@@ -1,10 +1,14 @@
 # Sheets
 
+For basic Sheet concepts and operations, please refer to the [Google Sheets User Guide](https://zapier.com/learn/google-sheets/google-sheets-tutorial/). DataSpread-Workbench provides most of the functionality of Google Sheets and has a similar interface.
+
+## Basic Concepts
+
 A standard Sheet contains row and column labels on the side and the content area, which is divided into two main sections: `Data` and `Free-Form`. There are also tabs at the bottom to switch between sheets in the DataSpread.
 
 ![](.gitbook/assets/dataspread_labeled.png)
 
-## 1 - Data Area
+### 1 - Data Area
 
 The top left area in the sheet is where data from the associated SQL table will live. It's bounded by the bolded border and scales automatically based on the number of rows and columns in the SQL table. This section will contain two types of columns:
 
@@ -17,7 +21,7 @@ You can right click on any cell in the Data Area or go to the `Insert` dropdown 
 
 Note: It's also possible to create a sheet without linking an SQL table, in which case there will be no Data Area. Instead the entire sheet will consist of the Free-Form Area.
 
-## 2 - Free-Form Area
+### 2 - Free-Form Area
 
 The remaining cells in the sheet are all free-form, meaning that you can enter whatever data you want and use it like a normal spreadsheet. Modifying these cells will have no effect on the SQL table, though you **can** use data from the table in formulas for free-form cells.
 
@@ -25,7 +29,7 @@ When right clicking on any cell in the free-form area, you'll see the option to 
 
 ![](.gitbook/assets/context_menu_insert_free.png)
 
-## 3 - Labels
+### 3 - Labels
 
 **Rows:** Each row is numbered starting from 1. The ordering is initially that which is returned from querying the SQL table, but because SQL databases don't guarantee order, the ordering is saved using the ID column you selected as a unique reference to each row. This allows you to reorder rows and insert rows at specific locations. Doing so will not modify anything in the actual database.
 
@@ -33,7 +37,7 @@ When right clicking on any cell in the free-form area, you'll see the option to 
 
 In formulas, cells can be referenced by column label followed by the row number, for example `C5`
 
-## 4 - Sheet Management
+### 4 - Sheet Management
 
 Finally, you can add switch between sheets in the DataSpread by selecting the sheet name or add another sheet by clicking the plus icon. Adding a sheet is exactly the same process as the initial setup \(note that you can create multiple sheets using the same SQL table\):
 
