@@ -28,5 +28,7 @@ Here's a breakdown of each option in the style bar in order \(the first four are
 | Hyperlink | Link a cell to an [external website](https://example.com) |
 | Wrap | For string data, wraps text such that it goes to the next line instead of overflowing |
 
-Many of these options can also be found under the `Format` dropdown in the top toolbar.
+Many of these options can also be found under the `Format` dropdown in the top toolbar, and the following figure will show the effect of most format options.
+
+![](.gitbook/assets/format.png)
 
