@@ -23,13 +23,13 @@ Username: testuser
 Password: testpassword
 ```
 
-![login_interface](./Images/login_interface.png)
+![login_interface](.gitbook/assets/login_interface.png)
 
 ## Create a DataSpread
 
 After signing up, you will be taken to the dataspreads manager.
 
-![dataspread_manager](./Images/dataspread_manager.png)
+![dataspread_manager](.gitbook/assets/dataspread_manager.png)
 
 Click on the green plus icon in the bottom right corner to create a DataSpread:
 
@@ -57,11 +57,11 @@ SQL Username: dataspread-user-1
 SQL Password: dataspread-pass-1
 ```
 
-![add_credentials](./Images/add_credentials.png)
+![add_credentials](.gitbook/assets/add_credentials.png)
 
 Then select that set of credentials and click on `Next`. You should see a list of databases that can be accessed using those credentials. Select the one you want to use, and also specify a name for your Dataspread. If you follow the instructions for deploying a development environment of DataSpread-Workbench, select `datasprea_local` as the database.
 
-![select_database2](./Images/select_database2.png)
+![select_database2](.gitbook/assets/select_database2.png)
 
 Click on the DataSpread you just created and then add your first sheet by selecting the table you want to associate it with as well as a column from that table that you want to use as the ID. The ID is used to maintain a consistent ordering for the rows \(since SQL tables don't guarantee order by default\).
 
