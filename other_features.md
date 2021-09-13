@@ -1,4 +1,4 @@
-# Other Functionality
+# Other Features
 
 In the upper left-hand corner of the page, you'll see a functionality bar organized into seven categories, as illustrated below.
 
@@ -93,5 +93,19 @@ Zoom in 200%:
 As a good helper for entering formulas, the formula bar will be displayed in the position shown below in the red box.
 
 ![formula_bar](.gitbook/assets/formula_bar.png)
+
+### Data
+
+| Name | Description |
+| :--- | :--- |
+| Sort by column X ascending | See [Limitation][Limitation] |
+| Sort by column Y ascending | See [Limitation][Limitation] |
+
+### Session
+
+| Name | Description |
+| :--- | :--- |
+| Close | Close the current Dataspread and redirect the user to the Dataspread Manager |
+| Log out | See [Limitation][Limitation] |
 
 [Limitation]:https://github.com/DataSpread-Workbench/user-guide/blob/master/limitation.md
